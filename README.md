@@ -23,7 +23,7 @@ Proper error handling.
 2. tokenized user input with error checking
 3. Started parent and child processes
 4. freed memory after use
-5. 
+
 
 
 
