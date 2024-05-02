@@ -3,7 +3,8 @@
 
 # Ayoposi's custom shell Shell
 
-A simple shell implementation in C.
+A simple shell implementation in C that follows POSIX guidelines.
+Hope you enjoyed, I created mini functions at first to get a sense for how the shell programs work. This sparked my interested in security :)
 
 # How to use
 
